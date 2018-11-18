@@ -15,8 +15,8 @@ layout: default
       <div class="row clearfix">
         <div class="col">
           <h2 class="project-title">{{ page.title }}</h2>
-          <h3>{{ page.role }}</h3>
-          <h3>{{ page.dates }}</h3>
+          <h3>{{ page.worktype }}</h3>
+          <h3>{{ page.date | date: "%Y" }}</h3>
           <a class="project-link" href="{{ page.project_site_url }}" target="_blank">{{ page.project_site_slug }}</a>
         </div>
         <div class="col">
