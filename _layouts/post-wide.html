@@ -17,7 +17,7 @@ layout: default
           <h2 class="project-title">{{ page.title }}</h2>
           <h3>{{ page.worktype }}</h3>
           <h3>{{ page.date | date: "%Y" }}</h3>
-          <a class="project-link" href="{{ page.project_site_url }}" target="_blank">{{ page.project_site_slug }}</a>
+          <a class="project-link" href="{{ page.project_site.url }}" target="_blank">{{ page.project_site.title }}</a>
         </div>
         <div class="col">
           <h3>
@@ -54,7 +54,7 @@ layout: default
           {% endfor %}
         </div>
         {% if page.press %}
-        <div class="col">3
+        <div class="col">
             <h3>Press</h3>
             {% for press in page.press %}
             <li><p><q>"{{ press.quote }}"</q> - <a href="{{ press.url }}" alt="{{ press.title }}">{{ press.title }}</a></p></li>
@@ -63,6 +63,18 @@ layout: default
           {% endif %}
       </div>
     </div>
+    {% if page.screenshots or page.videos %}    
+    <div class="showcase">
+      {% for video in page.videos %}
+      <div class="videoWrapper">
+         {{ video }}
+      </div>
+      {% endfor %}
+      {%for screen in page.screenshots %}
+    <img src="{{ screen }}" alt="{{ page.title }}">
+      {% endfor %}
+  </div>
+  {% endif %}
     {{ content }}
   </div>
 </div>
