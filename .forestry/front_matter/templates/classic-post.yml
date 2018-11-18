@@ -15,6 +15,20 @@ fields:
   name: layout
   hidden: false
   default: post-wide
+- type: select
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - games
+    - art
+    - work
+  label: Category
+  name: categories
+- type: datetime
+  label: date
+  name: date
 - type: color
   name: hero-bg-color
   config:
