@@ -12,8 +12,8 @@ contribution:
 - Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
   and memories. It will depart in winter.
 project_site:
-  url: Visit the game website
-  title: www.express.browniecove.com
+  url: www.express.browniecove.com
+  title: Visit the website
 hero-bg-color: "#000000"
 hero-image: "/img/tplaxr.png"
 press:
