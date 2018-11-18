@@ -1,0 +1,16 @@
+===experimental
+    =videos
+        - exquisite glitch virgin suicide
+        - lornlike
+        - other clip
+        - first clip
+
+    =images
+        - bce series
+        - processing series
+        - painting series
+
+    =processing
+        - image pixel listener
+        - symmetry creator
+    
