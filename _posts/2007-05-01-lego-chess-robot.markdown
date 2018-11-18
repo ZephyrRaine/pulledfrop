@@ -11,7 +11,7 @@ dates: 2005
 catchprase: funny project
 project_site_url: /img/ESEteamReport04-05.pdf
 project_site_slug: Final Report
-company_description: University of Glasgow Final Project for my Electronic and Software Engineering Degree.
+context_description: University of Glasgow Final Project for my Electronic and Software Engineering Degree.
 team:
 - 4 students
 stack:

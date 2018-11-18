@@ -21,13 +21,9 @@ layout: default
         </div>
         <div class="col">
           <h3>
-            {% if page.personal_project %}
-              Personal Project
-            {% else %}
-              Company
-            {% endif %}
+            Context
           </h3>
-          {% for p in page.company_description %}
+          {% for p in page.context_description %}
             <p>{{ p | textilize }}</p>
           {% endfor %}
           <div class="row">
@@ -57,12 +53,14 @@ layout: default
             <p>{{ p | textilize }}</p>
           {% endfor %}
         </div>
-        <div class="col">
+        {% if page.press %}
+        <div class="col">3
             <h3>Press</h3>
             {% for press in page.press %}
             <li><p><q>"{{ press.quote }}"</q> - <a href="{{ press.url }}" alt="{{ press.title }}">{{ press.title }}</a></p></li>
             {% endfor %}
           </div>
+          {% endif %}
       </div>
     </div>
     {{ content }}
