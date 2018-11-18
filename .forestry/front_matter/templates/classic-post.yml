@@ -15,6 +15,11 @@ fields:
   name: layout
   hidden: false
   default: post-wide
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
 - type: select
   config:
     source:
@@ -26,6 +31,17 @@ fields:
     - work
   label: Category
   name: categories
+  default: games
+- type: text
+  name: worktype
+  label: Work type
+  config:
+    required: true
+- type: text
+  name: catchprase
+  label: Catchprase
+  config:
+    required: false
 - type: datetime
   label: date
   name: date
@@ -37,5 +53,6 @@ fields:
 - type: file
   name: hero-image
   label: hero-image
+- type: blocks
 pages:
 - _posts/2018-11-18-test.md
