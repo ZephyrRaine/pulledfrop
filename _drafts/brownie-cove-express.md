@@ -17,7 +17,12 @@ project_site:
 hero-bg-color: "#000000"
 hero-image: "/img/tplaxr.png"
 press:
-- title: Top Games of Sweden Game Conference 2018 – ‘Brownie Cove Express’
+- title: Mirror
+  quote: This is definitely a game with a lot to say and a lot to think about; it's
+    experimental for a reason, so certainly not for everyone, but players that can
+    appreciate something deep, artful, and unique will appreciate Brownie Cove Express.
+  url: https://www.mirror.co.uk/tech/sweden-game-conference-2018-best-13471040
+- title: Indie Games +
   quote: I have never been taken to such emotional depths so quickly as I have been
     with Brownie Cove Express. It’s a nearly-painful look at what exists within ourselves,
     forcing me to face some things I’d long buried.
@@ -27,7 +32,7 @@ press:
     a surreal and unsettling tone. Who knows what mysteries Brownie Cove Express will
     hold, but it certainly looks like it’s going to be an interesting ride.
   url: https://www.alphabetagamer.com/brownie-cove-express-alpha-sign-up/
-- title: Second place at the PC Indie Pitch @ Sweden Games Conference
+- title: PC Games Insider
   quote: Sand Gardeners were certainly able to grab our judges attention, and leave
     them just wondering what fate awaits those on the Brownie Cove Express.
   url: https://www.pcgamesinsider.biz/news/68002/the-battle-of-polytopia-conquers-the-competition-to-take-the-pc-indie-pitch-crown-at-sweden-game-arena-18/
