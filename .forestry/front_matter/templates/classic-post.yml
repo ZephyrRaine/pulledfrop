@@ -104,5 +104,3 @@ fields:
 - type: image_gallery
   label: screenshots
   name: screenshots
-pages:
-- _posts/lol.md
