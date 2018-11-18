@@ -2,4 +2,24 @@
 label: Classic post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: select
+  config:
+    source:
+      type: simple
+      section: posts
+    required: true
+    options:
+    - post-wide
+  label: layout
+  name: layout
+  hidden: false
+  default: post-wide
+- type: color
+  name: hero-bg-color
+  config:
+    color_format: Hex
+  label: hero-bg-color
+- type: file
+  name: hero-image
+  label: hero-image
