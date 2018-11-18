@@ -37,6 +37,7 @@ fields:
   label: Work type
   config:
     required: true
+  default: Development
 - type: text
   name: catchprase
   label: Catchprase
