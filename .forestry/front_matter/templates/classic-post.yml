@@ -104,5 +104,3 @@ fields:
 - type: image_gallery
   label: screenshots
   name: screenshots
-pages:
-- _posts/2018-11-18-test.md
