@@ -16,8 +16,8 @@ contribution:
 project_site:
   url: https://sandgardeners.itch.io/ghuest
   title: Game page
-hero-bg-color: ''
-hero-image: ''
+hero-bg-color: "#020202"
+hero-image: "/img/definion_of_a_ghuest/12b6b.png"
 press:
 - title: Game Jam Curator
   quote: The game developers came up with a new idea, term or concept, and let you
@@ -28,7 +28,11 @@ press:
     le thème de la Ludum Dare 41. Il combine aussi les histoires, les médias, prêt
     à tout pour n’entrer dans aucune case.
   url: http://oujevipo.fr/general/6839-definition-of-a-ghuest/
-screenshots: []
+screenshots:
+- "/img/definion_of_a_ghuest/a7TwmM.jpg"
+- "/img/definion_of_a_ghuest/12b82.png"
+- "/img/definion_of_a_ghuest/12b57.png"
 catchphrase: hotel documentary
+opensource: false
 
 ---
