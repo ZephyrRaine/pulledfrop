@@ -7,6 +7,13 @@ layout: default
       <img class="post-wide-hero" src="{{  page.hero-image  }}" />
   </div>
     <div class="post post-wide">
+      {% if page.sand_gardeners == true %}
+        <div>
+          <br>
+          <a href="http://www.sandgardeners.com" target="_blank"><i class="fab fa-3x fa-fort-awesome-alt" style="color: Mediumslateblue;"></i></a>
+          <i><h3>This is a <a href="http://www.sandgardeners.com" target="_blank">Sand Gardeners</a> project. It means the writing, the art, and half or more of the design are done by the artist <a href="https://www.browniecove.com" target="_blank">Sam Machell</a></i>.</h3>
+        </div>
+        {% endif %}
     <div class="project-description">
       <div class="row clearfix">
         <div class="col">
@@ -22,7 +29,6 @@ layout: default
            
         
           <div class="row">
-        
               <div class="col-50">
               <h3>
                   Context
@@ -33,7 +39,7 @@ layout: default
               </div>
             {% if page.stack %}
               <div class="col-50">
-                <h3>Stack</h3>
+                <h3>Technology</h3>
                 <p>
                   {{ page.stack }}
                 </p>
@@ -42,11 +48,9 @@ layout: default
           </div>
           {% if page.team.size > 0 %}
           <h3>Team</h3>
-          <p>
             {% for t in page.team %}
               <p><a href="{{ t.site }}" target="_blank">{{ t.name }}</a> - {{ t.role }}</p>
             {% endfor %}
-          </p>
           {% endif %}
         </div>
         <div class="col">
