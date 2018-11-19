@@ -17,8 +17,8 @@ contribution:
   but the tv is tempting...
 - Almost a year after its release, we made a physical version of the game to be showcased
   in the Leftfield Collection at EGX 2018.
-hero-bg-color: ''
-hero-image: ''
+hero-bg-color: "#1C1C1C"
+hero-image: "/img/between_stations/screen4.png"
 press:
 - title: Rock Paper Shotgun
   quote: There is only so many to watch before the static overcomes the TV’s resistance
@@ -53,5 +53,6 @@ press:
     entre les stations.
   url: http://oujevipo.fr/general/6477-between-stations/
 screenshots: []
+opensource: false
 
 ---
