@@ -16,8 +16,8 @@ contribution:
   understand the mystery.
 - A short abstract neo-noir experience about confusion, memory, driving, mysteries,
   cats, and raymond chandler's classic the long goodbye.
-hero-bg-color: ''
-hero-image: ''
+hero-bg-color: "#000000"
+hero-image: "/img/philip_marlowe/PM.png"
 press:
 - quote: Taking you to another slightly strange narrative, Philip Marlowe Doesn’t
     Understand The Mystery shows you a window into the life of a detective that just
@@ -32,6 +32,9 @@ press:
     achievement away and then confront your players with a struggling detective, whose
     mind and memory seem to be uncontrollable?
   url: https://gamejamcurator.tumblr.com/post/171997580526/no-shit-sherlock-jam-philip-marlowe-doesnt
-screenshots: []
+screenshots:
+- "/img/philip_marlowe/marlowe.png"
+- "/img/philip_marlowe/PM.png"
+opensource: false
 
 ---
