@@ -17,8 +17,8 @@ contribution:
 project_site:
   title: Visit the game page
   url: https://sandgardeners.itch.io/exhaustlands
-hero-bg-color: "#FAF8FB"
-hero-image: "/img/ZwKCvg.jpg"
+hero-bg-color: ''
+hero-image: ''
 press:
 - quote: Exploring the mysterious world of exhaustlands is a very interesting experience,
     with lots of strange sights to see and secrets to discover.
