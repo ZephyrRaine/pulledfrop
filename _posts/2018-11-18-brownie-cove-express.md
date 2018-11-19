@@ -3,7 +3,7 @@ title: Brownie Cove Express
 layout: post-wide
 categories: games
 date: 2018-11-18 21:14
-sand_gardeners: false
+sand_gardeners: true
 catchphrase: steam stars snow
 context_description: Sand Gardeners
 team:
@@ -20,7 +20,7 @@ contribution:
   and memories. It will depart in winter.
 project_site:
   url: http://www.express.browniecove.com
-  title: Visit the website
+  title: Teaser website
 hero-bg-color: "#000000"
 hero-image: "/img/tplaxr.png"
 press:
@@ -44,5 +44,6 @@ press:
     them just wondering what fate awaits those on the Brownie Cove Express.
   url: https://www.pcgamesinsider.biz/news/68002/the-battle-of-polytopia-conquers-the-competition-to-take-the-pc-indie-pitch-crown-at-sweden-game-arena-18/
 screenshots: []
+catchprase: steam stars snow
 
 ---
