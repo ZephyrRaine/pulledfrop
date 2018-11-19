@@ -17,7 +17,7 @@ contribution:
   but the tv is tempting...
 - Almost a year after its release, we made a physical version of the game to be showcased
   in the Leftfield Collection at EGX 2018.
-hero-bg-color: "#1C1C1C"
+hero-bg-color: "#030302"
 hero-image: "/img/between_stations/screen4.png"
 press:
 - title: Rock Paper Shotgun
