@@ -26,7 +26,7 @@ project_site:
   url: http://www.express.browniecove.com
   title: Teaser website
 hero-bg-color: "#000000"
-hero-image: "/img/tplaxr.png"
+hero-image: "/img/brownie_cove_express/thumb.png"
 press:
 - title: Mirror
   quote: This is definitely a game with a lot to say and a lot to think about; it's
@@ -47,7 +47,15 @@ press:
   quote: Sand Gardeners were certainly able to grab our judges attention, and leave
     them just wondering what fate awaits those on the Brownie Cove Express.
   url: https://www.pcgamesinsider.biz/news/68002/the-battle-of-polytopia-conquers-the-competition-to-take-the-pc-indie-pitch-crown-at-sweden-game-arena-18/
-screenshots: []
+screenshots:
+- "/img/brownie_cove_express/rooms.gif"
+- "/img/brownie_cove_express/pictures.gif"
+- "/img/brownie_cove_express/diag1.gif"
+- "/img/brownie_cove_express/lovers.gif"
+- "/img/brownie_cove_express/mother.gif"
+- "/img/brownie_cove_express/artist.gif"
+- "/img/brownie_cove_express/diag2.gif"
 catchprase: steam stars snow
+opensource: false
 
 ---
