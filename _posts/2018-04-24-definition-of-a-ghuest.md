@@ -26,5 +26,6 @@ press:
     à tout pour n’entrer dans aucune case.
   url: http://oujevipo.fr/general/6839-definition-of-a-ghuest/
 screenshots: []
+catchphrase: hotel documentary
 
 ---
