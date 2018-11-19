@@ -9,7 +9,11 @@ context_description: 'Ludum Dare #42'
 team: []
 stack: Unity
 contribution:
-- 'This game has been made in 72 hours for the Ludum Dare #42'
+- "It is a time of war.  \nThe RESISTANCE is dwindling, and the last remaining members
+  take refuge in an abandoned power station in the heart of the EXHAUSTLANDS.  \nThe
+  FASCIST army moves closer everyday - unstoppable and hungry.  \nUnder the cold BROWNIE
+  COVE sun, members of the resistance journey out into the lands to explore the area,
+  and prepare to do battle with the approaching DARKNESS."
 project_site:
   title: Visit the game page
   url: https://sandgardeners.itch.io/exhaustlands
