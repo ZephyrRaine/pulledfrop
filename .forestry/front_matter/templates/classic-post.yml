@@ -49,13 +49,6 @@ fields:
   label: context description
   config:
     required: true
-- type: list
-  name: team
-  label: team
-  config:
-    use_select: false
-    source:
-      type: documents
 - type: text
   name: stack
   label: stack
@@ -77,6 +70,9 @@ fields:
     default: Game page
   label: project site
   name: project_site
+- type: boolean
+  name: opensource
+  label: opensource
 - type: color
   name: hero-bg-color
   config:
@@ -85,6 +81,19 @@ fields:
 - type: file
   name: hero-image
   label: hero-image
+- type: field_group_list
+  name: team
+  label: team
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: role
+    label: role
+  - type: text
+    name: site
+    label: site
 - type: field_group_list
   label: press
   name: press
