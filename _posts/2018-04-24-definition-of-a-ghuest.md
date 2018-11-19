@@ -12,7 +12,7 @@ contribution:
 - Definition of a ghuest is a game about a film about an art piece about a hotel.
 project_site:
   url: https://sandgardeners.itch.io/ghuest
-  title: Visit the game page
+  title: Game page
 hero-bg-color: ''
 hero-image: ''
 press:
