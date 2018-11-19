@@ -5,6 +5,37 @@ categories: games
 sand_gardeners: true
 project_site:
   title: Game page
-date: 2018-11-19 02:08
+  url: https://sandgardeners.itch.io/the-cashbags-man
+date: 2017-04-25 01:08:43 +0000
+catchphrase: hotel dream
+context_description: 'Ludum Dare #38'
+team: []
+stack: Unity
+contribution:
+- Play as Cashbags Michael, notorious concierge at Brownie Cove Hotel, check in guests,
+  help sort out problems, feel the crippling anxiety and stress of looking after an
+  infinite number of people!
+hero-bg-color: ''
+hero-image: ''
+press:
+- title: PC Gamer
+  quote: I don't say 'wowza' very often, but here's a game that calls for it, so here
+    goes. OK. Ahem. Wowza.
+  url: https://www.pcgamer.com/free-games-of-the-week/12/
+- title: Rock Paper Shotgun
+  quote: There’s a lot more going on at the Brownie Cove Hotel than meets the eye
+    – it’s said that a place of paradise is never what it seems.
+  url: https://www.rockpapershotgun.com/2018/07/28/free-games-of-the-week-july-28th-2018/
+- title: Alpha Beta Gamer
+  quote: It’s a fun game with charming hand drawn visuals and a quirky sense of humor.
+    Do well and you may even come across some new customers who can give you some
+    insight into the dark past this hotel has…
+  url: https://www.alphabetagamer.com/the-cashbags-man-game-jam-build-download/
+- title: Gray Still Plays
+  quote: If there was a game that had some Kindergarten style of humor to it, this
+    is it. The Cashbags Man is one of the weirdest games I've played, and as a game
+    jam style of game, it's surprisingly good. It's a Hotel Simulator...sort of.
+  url: https://www.youtube.com/watch?v=NhCQyObzpqw
+screenshots: []
 
 ---
