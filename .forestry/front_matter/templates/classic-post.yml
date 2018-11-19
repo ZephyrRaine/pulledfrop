@@ -33,7 +33,7 @@ fields:
   name: categories
   default: games
 - type: text
-  name: catchprase
+  name: catchphrase
   label: Catchphrase
   config:
     required: true
@@ -43,6 +43,7 @@ fields:
 - type: boolean
   name: sand_gardeners
   label: sand gardeners
+  default: true
 - type: text
   name: context_description
   label: context description
@@ -73,6 +74,7 @@ fields:
     label: title
     config:
       required: false
+    default: Game page
   label: project site
   name: project_site
 - type: color
