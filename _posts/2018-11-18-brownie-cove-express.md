@@ -2,17 +2,23 @@
 title: Brownie Cove Express
 layout: post-wide
 categories: games
-worktype: Development & Design
 date: 2018-11-18 21:14
-catchprase: steam stars snow
+catchphrase: steam stars snow
 context_description: Sand Gardeners
-team: []
+team:
+- name: Marc Loths
+  role: Animator
+  site: http://www.oldloths.com
 stack: Unity
 contribution:
 - Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
   and memories. It will depart in winter.
+- Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
+  and memories. It will depart in winter.
+- Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
+  and memories. It will depart in winter.
 project_site:
-  url: www.express.browniecove.com
+  url: http://www.express.browniecove.com
   title: Visit the website
 hero-bg-color: "#000000"
 hero-image: "/img/tplaxr.png"

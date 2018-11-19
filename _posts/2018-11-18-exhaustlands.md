@@ -2,17 +2,16 @@
 title: EXHAUSTLANDS
 layout: post-wide
 categories: games
-worktype: Development & Design
 date: 2018-11-18 21:28
-catchprase: driving resistance
+catchphrase: driving resistance
 context_description: 'Ludum Dare #42'
 team: []
 stack: Unity
 contribution:
 - 'This game has been made in 72 hours for the Ludum Dare #42'
 project_site:
-  url: Visit the game page
-  title: https://sandgardeners.itch.io/exhaustlands
+  title: Visit the game page
+  url: https://sandgardeners.itch.io/exhaustlands
 hero-bg-color: "#FAF8FB"
 hero-image: "/img/ZwKCvg.jpg"
 press:
