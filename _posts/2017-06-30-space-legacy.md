@@ -15,10 +15,12 @@ contribution:
 - The team consisted of 5 coders and 5 artists. I was in charge of the procedural
   level generation and helped on various tasks.
 opensource: false
-hero-bg-color: ''
-hero-image: ''
+hero-bg-color: "#1E1212"
+hero-image: "/img/space_legacy/5f51ea58-806a-42c3-aca8-8a627bbd7a9b.png"
 team: []
 press: []
-screenshots: []
+screenshots:
+- "/img/space_legacy/sl1.jpg"
+- "/img/space_legacy/sl.jpg"
 
 ---
