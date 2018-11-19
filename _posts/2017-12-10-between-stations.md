@@ -52,7 +52,12 @@ press:
     « télé » comme disaient les anciens, de cette époque où il neigeait tous les jours
     entre les stations.
   url: http://oujevipo.fr/general/6477-between-stations/
-screenshots: []
+screenshots:
+- "/img/between_stations/egx.jpg"
+- "/img/between_stations/screen3.png"
+- "/img/between_stations/thumb.png"
+- "/img/between_stations/screen1.png"
+- "/img/between_stations/screen2.png"
 opensource: false
 
 ---
