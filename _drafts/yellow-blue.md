@@ -22,5 +22,6 @@ hero-bg-color: ''
 hero-image: ''
 press: []
 screenshots: []
+opensource: true
 
 ---
