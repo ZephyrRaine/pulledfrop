@@ -29,6 +29,5 @@ press:
     the sand gardeners have jumped into a particularly unusual genre combination
   url: https://gamejamcurator.tumblr.com/post/177414319531/ludum-dare-42-exhaustlands
 screenshots: []
-catchprase: driving resistance
 
 ---
