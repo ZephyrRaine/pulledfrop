@@ -2,7 +2,7 @@
 title: EXHAUSTLANDS
 layout: post-wide
 categories: games
-date: 2018-11-18 21:28
+date: 2018-08-18 19:28:00 +0000
 catchphrase: driving resistance
 sand_gardeners: true
 context_description: 'Ludum Dare #42'
