@@ -14,10 +14,14 @@ stack: Unity
 contribution:
 - Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
   and memories. It will depart in winter.
-- Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
-  and memories. It will depart in winter.
-- Brownie Cove Express is a haunted collage adventure game about trains, snow, ghosts,
-  and memories. It will depart in winter.
+- Across windy mountain trails and tracks, snowy static blizzards, and other such
+  cold wintery magics, a train powers on - carrying a group of mysterious travellers
+  to an unknown fate - you explore their stories through experimental narrative and
+  playful vignettes.
+- 'Much of the game is spent reading and interacting with the 6 complex and intriguing
+  characters through choices. Rather than focusing on large branching stories where
+  players can control the outcome, the story is more linear with a focus on experimental
+  prose, with the choices reflecting player expression and curiosity. '
 project_site:
   url: http://www.express.browniecove.com
   title: Teaser website
