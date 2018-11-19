@@ -10,9 +10,12 @@ team: []
 stack: Unity
 contribution:
 - Definition of a ghuest is a game about a film about an art piece about a hotel.
+- We interpreted the theme as a transfer of one medium into another… i.e. an installation
+  piece remade as a documentary, or a film being viewed within a video game. What
+  is gained and what is lost when two incompatible mediums collide?
 project_site:
-  url: ''
-  title: ''
+  url: https://sandgardeners.itch.io/ghuest
+  title: Game page
 hero-bg-color: ''
 hero-image: ''
 press:
@@ -26,5 +29,6 @@ press:
     à tout pour n’entrer dans aucune case.
   url: http://oujevipo.fr/general/6839-definition-of-a-ghuest/
 screenshots: []
+catchphrase: hotel documentary
 
 ---

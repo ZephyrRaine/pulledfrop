@@ -33,7 +33,7 @@ fields:
   name: categories
   default: games
 - type: text
-  name: catchprase
+  name: catchphrase
   label: Catchphrase
   config:
     required: true
@@ -43,18 +43,12 @@ fields:
 - type: boolean
   name: sand_gardeners
   label: sand gardeners
+  default: true
 - type: text
   name: context_description
   label: context description
   config:
     required: true
-- type: list
-  name: team
-  label: team
-  config:
-    use_select: false
-    source:
-      type: documents
 - type: text
   name: stack
   label: stack
@@ -73,8 +67,12 @@ fields:
     label: title
     config:
       required: false
+    default: Game page
   label: project site
   name: project_site
+- type: boolean
+  name: opensource
+  label: opensource
 - type: color
   name: hero-bg-color
   config:
@@ -83,6 +81,19 @@ fields:
 - type: file
   name: hero-image
   label: hero-image
+- type: field_group_list
+  name: team
+  label: team
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: role
+    label: role
+  - type: text
+    name: site
+    label: site
 - type: field_group_list
   label: press
   name: press
@@ -102,6 +113,10 @@ fields:
   label: screenshots
   name: screenshots
 pages:
-- _posts/definition-of-a-ghuest.md
+- _posts/2017-06-30-space-legacy.md
+- _posts/2018-02-15-yellow-blue.md
+- _posts/2018-03-09-1philip-marlowe-doesn-t-understand-the-mystery.md
+- _posts/2017-12-10-between-stations.md
+- _posts/2017-04-25-cashbags.md
+- _posts/2018-04-24-definition-of-a-ghuest.md
 - _posts/2018-11-18-brownie-cove-express.md
-- _posts/2018-11-18-exhaustlands.md
