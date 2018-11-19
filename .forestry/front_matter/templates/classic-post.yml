@@ -33,19 +33,16 @@ fields:
   name: categories
   default: games
 - type: text
-  name: worktype
-  label: Work type
+  name: catchprase
+  label: Catchphrase
   config:
     required: true
-  default: Development
-- type: text
-  name: catchprase
-  label: Catchprase
-  config:
-    required: false
 - type: datetime
   label: date
   name: date
+- type: boolean
+  name: sand_gardeners
+  label: sand gardeners
 - type: text
   name: context_description
   label: context description
@@ -70,12 +67,12 @@ fields:
     name: url
     label: url
     config:
-      required: true
+      required: false
   - type: text
     name: title
     label: title
     config:
-      required: true
+      required: false
   label: project site
   name: project_site
 - type: color
@@ -105,5 +102,5 @@ fields:
   label: screenshots
   name: screenshots
 pages:
-- _posts/2018-11-18-exhaustlands.md
 - _posts/2018-11-18-brownie-cove-express.md
+- _posts/2018-11-18-exhaustlands.md
