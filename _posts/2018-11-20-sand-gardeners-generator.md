@@ -6,7 +6,7 @@ sand_gardeners: true
 project_site:
   title: Project page
   url: https://sandgardeners.itch.io/generator
-date: 2018-11-20 09:12
+date: 2018-11-15 09:12:17 +0000
 catchphrase: neural network lore
 context_description: Artistic project
 stack: Tensorflow, Javascript
