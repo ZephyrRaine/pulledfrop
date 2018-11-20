@@ -6,8 +6,8 @@ date: 2018-08-18 19:28:00 +0000
 catchphrase: driving resistance
 sand_gardeners: true
 context_description: 'Ludum Dare #42'
-hero-bg-color: "#1E1212"
-hero-image: "/img/space_legacy/5f51ea58-806a-42c3-aca8-8a627bbd7a9b.png"
+hero-bg-color: "#fafafc"
+hero-image: "/img/exhaustlands/ZwKCvg.jpg"
 team: []
 stack: Unity
 contribution:
