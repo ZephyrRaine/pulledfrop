@@ -18,10 +18,13 @@ contribution:
   over time.
 - Inference has been turned into an interactive experience to educate the player on
   the way machine learning agents train on a task.
-hero-bg-color: ''
-hero-image: ''
+hero-bg-color: "#000000"
+hero-image: "/img/yellow_and_blue/ml1.png"
 press: []
-screenshots: []
+screenshots:
+- "/img/yellow_and_blue/973478bf-f70e-4ea4-9335-015e56740ecc_BLUE.gif._gif_.jpg"
+- "/img/yellow_and_blue/973478bf-f70e-4ea4-9335-015e56740ecc_BLUE.gif"
+- "/img/yellow_and_blue/ml.png"
 opensource: true
 
 ---
