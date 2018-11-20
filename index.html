@@ -45,35 +45,37 @@ title: Portfolio
 </div>
 <ul class="projects clearfix">
   {% for post in site.categories.art %}
-    <li>
-      <div class="project">
-        <a class="cover" href="{{ post.url }}">
-          <div class="project-details">
-            <span>
-              {{ post.title }}
-            </span>
-            <span>
-              {{ post.worktype }}
-            </span>
-          </div>
-        </a>
-        {% if post.opensource %}
-          {% if post.blackbg %}
-            <span class="github-icon light"></span>
-          {% else %}
-            <span class="github-icon"></span>
-          {% endif %}
-        {% endif %}
-        {% if post.progress %}
-          <span class="progress">
-            <span class="under-construction"></span>
-            <span class="progress-bar" style="width: {{ post.progress }}%"></span>
+  <li>
+    <div class="project" style="background-color: {{ post.hero-bg-color }} ;">
+      <a class="cover" href="{{ post.url }}">
+        <div class="project-details">
+          <span>
+            {{ post.title }}
           </span>
+          <span>
+            {{ post.catchphrase }}
+          </span>
+        </div>
+      </a>
+      {% if post.opensource %}
+        {% if post.blackbg %}
+          <span class="github-icon light"></span>
+        {% else %}
+          <span class="github-icon"></span>
         {% endif %}
-        <img class="thumb" src="{{  post.hero-image  }}" />
-        <div class="aspect-two-one"></div>
-      </div>
-    </li>
+      {% endif %}
+      {% if post.progress %}
+        <span class="progress">
+          <span class="under-construction"></span>
+          <span class="progress-bar" style="width: {{ post.progress }}%"></span>
+        </span>
+      {% endif %}
+      <div class="container" >
+      <img class="thumb" src="{{  post.hero-image  }}" />
+    </div>
+      <div class="aspect-two-one"></div>
+    </div>
+  </li>
   {% endfor %}
   </ul>
   <div class="category" id="work">
@@ -81,34 +83,36 @@ title: Portfolio
   </div>
   <ul class="projects clearfix">
   {% for post in site.categories.work %}
-    <li>
-      <div class="project">
-        <a class="cover" href="{{ post.url }}">
-          <div class="project-details">
-            <span>
-              {{ post.title }}
-            </span>
-            <span>
-              {{ post.worktype }}
-            </span>
-          </div>
-        </a>
-        {% if post.opensource %}
-          {% if post.blackbg %}
-            <span class="github-icon light"></span>
-          {% else %}
-            <span class="github-icon"></span>
-          {% endif %}
-        {% endif %}
-        {% if post.progress %}
-          <span class="progress">
-            <span class="under-construction"></span>
-            <span class="progress-bar" style="width: {{ post.progress }}%"></span>
+  <li>
+    <div class="project" style="background-color: {{ post.hero-bg-color }} ;">
+      <a class="cover" href="{{ post.url }}">
+        <div class="project-details">
+          <span>
+            {{ post.title }}
           </span>
+          <span>
+            {{ post.catchphrase }}
+          </span>
+        </div>
+      </a>
+      {% if post.opensource %}
+        {% if post.blackbg %}
+          <span class="github-icon light"></span>
+        {% else %}
+          <span class="github-icon"></span>
         {% endif %}
-        <img class="thumb" src="{{  post.hero-image  }}" />
-        <div class="aspect-two-one"></div>
-      </div>
-    </li>
+      {% endif %}
+      {% if post.progress %}
+        <span class="progress">
+          <span class="under-construction"></span>
+          <span class="progress-bar" style="width: {{ post.progress }}%"></span>
+        </span>
+      {% endif %}
+      <div class="container" >
+      <img class="thumb" src="{{  post.hero-image  }}" />
+    </div>
+      <div class="aspect-two-one"></div>
+    </div>
+  </li>
   {% endfor %}
   </ul>
