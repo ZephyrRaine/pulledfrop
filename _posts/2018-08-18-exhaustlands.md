@@ -28,6 +28,9 @@ press:
   quote: Interested in a game of a completely different kind? For the Ludum Dare 42,
     the sand gardeners have jumped into a particularly unusual genre combination
   url: https://gamejamcurator.tumblr.com/post/177414319531/ludum-dare-42-exhaustlands
-screenshots: []
+screenshots:
+- "/img/exhaustlands/3.png"
+- "/img/exhaustlands/QDMvOY.png"
+- "/img/exhaustlands/vEwCMI.png"
 
 ---
