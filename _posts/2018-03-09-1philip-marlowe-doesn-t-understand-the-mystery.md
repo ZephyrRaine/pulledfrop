@@ -36,5 +36,6 @@ screenshots:
 - "/img/philip_marlowe/marlowe.png"
 - "/img/philip_marlowe/PM.png"
 opensource: false
-
+videos:
+- '<iframe width="700" height="394" src="https://www.youtube.com/embed/xSc9jV9-8f4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 ---

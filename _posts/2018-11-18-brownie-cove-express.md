@@ -57,5 +57,6 @@ screenshots:
 - "/img/brownie_cove_express/diag2.gif"
 catchprase: steam stars snow
 opensource: false
-
+videos:
+- '<iframe width="700" height="394" src="https://www.youtube.com/embed/uyJrWFq0c5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 ---

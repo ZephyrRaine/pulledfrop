@@ -59,7 +59,7 @@ layout: default
             <p>{{ p | textilize }}</p>
           {% endfor %}
         </div>
-        {% if page.press %}
+        {% if page.press.size > 0 %}
         <div class="col">
             <h3>Press</h3>
             {% for press in page.press %}

@@ -34,5 +34,6 @@ screenshots:
 - "/img/definion_of_a_ghuest/12b57.png"
 catchphrase: hotel documentary
 opensource: false
-
+videos:
+- '<iframe width="700" height="394" src="https://www.youtube.com/embed/kmd7GsiIs_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
 ---

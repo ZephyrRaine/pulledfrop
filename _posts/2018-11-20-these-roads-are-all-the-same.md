@@ -16,7 +16,7 @@ contribution:
 - I took this input and put it in a Unity project that reads the text infinitely based
   on the time of day, showing the same part of the text for everyone.
 opensource: false
-hero-bg-color: "#FFFFFF"
+hero-bg-color: "#e5e5e5"
 hero-image: "/img/these_roads/Screenshot_2018-11-19 These Roads Are All The Same by
   Sand Gardeners.png"
 team: []
