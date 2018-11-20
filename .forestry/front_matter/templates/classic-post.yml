@@ -113,6 +113,7 @@ fields:
   label: screenshots
   name: screenshots
 pages:
+- _posts/sand-gardeners-generator.md
 - _posts/2018-11-20-these-roads-are-all-the-same.md
 - _posts/2017-04-25-cashbags.md
 - _posts/2018-03-09-1philip-marlowe-doesn-t-understand-the-mystery.md
