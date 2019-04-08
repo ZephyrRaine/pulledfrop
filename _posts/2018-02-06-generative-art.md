@@ -12,8 +12,8 @@ context_description: other
 stack: Processing
 contribution: []
 opensource: false
-hero-bg-color: "#424242"
-hero-image: "/img/3 (3).jpg"
+hero-bg-color: "#FFFFFF"
+hero-image: summerfeels.png
 team: []
 press: []
 screenshots:
