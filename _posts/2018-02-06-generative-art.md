@@ -13,7 +13,7 @@ stack: Processing
 contribution: []
 opensource: false
 hero-bg-color: "#FFFFFF"
-hero-image: summerfeels.png
+hero-image: "/img/summerfeels.png"
 team: []
 press: []
 screenshots:
