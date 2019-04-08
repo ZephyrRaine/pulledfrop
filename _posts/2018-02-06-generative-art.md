@@ -1,6 +1,6 @@
 ---
 layout: post-wide
-categories: games
+categories: art
 sand_gardeners: false
 project_site:
   title: Game page
