@@ -112,11 +112,11 @@ fields:
   label: screenshots
   name: screenshots
 pages:
+- _posts/2019-04-07-unity-art.md
 - _posts/music-videos.md
 - _posts/glitched-paintings.md
 - _posts/bch-promo.md
 - _posts/generative-art.md
-- _posts/2019-04-07-unity-art.md
 - _posts/2018-11-20-these-roads-are-all-the-same.md
 - _posts/2018-11-20-sand-gardeners-generator.md
 - _posts/2018-06-30-anatana.md
