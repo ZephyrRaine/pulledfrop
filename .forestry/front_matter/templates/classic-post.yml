@@ -1,7 +1,6 @@
 ---
 label: Classic post
 hide_body: false
-is_partial: false
 fields:
 - type: select
   config:
@@ -113,6 +112,7 @@ fields:
   label: screenshots
   name: screenshots
 pages:
+- _posts/unity-art.md
 - _posts/2018-11-20-these-roads-are-all-the-same.md
 - _posts/2018-11-20-sand-gardeners-generator.md
 - _posts/2018-06-30-anatana.md

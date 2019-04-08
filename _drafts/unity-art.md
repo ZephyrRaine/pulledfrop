@@ -1,0 +1,26 @@
+---
+layout: post-wide
+categories: art
+sand_gardeners: false
+project_site:
+  title: Game page
+  url: ''
+title: Unity Art
+catchphrase: derivative use of the engine
+date: 2019-04-07 22:00:00 +0000
+context_description: Various images made with Unity Engine
+stack: Unity
+contribution: []
+opensource: false
+hero-bg-color: "#ECA74F"
+hero-image: "/img/unity_art/1838835449716000.jpg"
+team: []
+press: []
+screenshots:
+- "/img/unity_art/photo_1284117115014197.jpg"
+- "/img/unity_art/photo_1284124985013410.jpg"
+- "/img/unity_art/28870409_1639685949448554_6863222997293989888_o.png"
+- "/img/unity_art/28959459_1639685802781902_5749429924653957120_o.png"
+- "/img/unity_art/1838835449716000.jpg"
+
+---
