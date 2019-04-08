@@ -112,6 +112,7 @@ fields:
   label: screenshots
   name: screenshots
 pages:
+- _posts/music-videos.md
 - _posts/glitched-paintings.md
 - _posts/bch-promo.md
 - _posts/generative-art.md
